@@ -1,5 +1,5 @@
 # RAG CV Matcher - Système Intelligent de Matching CV-Offres
-
+"Production-ready | 500+ CVs processed | LangChain + FAISS + Mistral"
 Un système **RAG (Retrieval-Augmented Generation)** complet et en production conçu pour analyser automatiquement des CVs et les matcher avec des offres d'emploi.
 
 ##  Objectif
