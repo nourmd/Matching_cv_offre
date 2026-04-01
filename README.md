@@ -2,7 +2,7 @@
  
 Un système **RAG (Retrieval-Augmented Generation)** complet et en production conçu pour analyser automatiquement des CVs et les matcher avec des offres d'emploi.
 
-500+ CVs processed | LangChain + FAISS + Mistral
+500+ CVs traités| LangChain + FAISS + Mistral
 
 ##  Objectif
 
