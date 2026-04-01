@@ -17,7 +17,6 @@ Construire un système capable d’extraire, structurer et vectoriser les inform
 - Agent IA autonome utilisant **LangChain** + moteur de recherche web (DuckDuckGo) pour recommander des formations personnalisées
 - API REST complète développée avec **Django**
 - Traitements asynchrones avec **RabbitMQ**
-- Conteneurisation avec **Docker**
 
 ##  Technologies Utilisées
 
@@ -27,7 +26,6 @@ Construire un système capable d’extraire, structurer et vectoriser les inform
 - **Backend** : Django + REST API
 - **Asynchrone** : RabbitMQ
 - **Base de données** : PostgreSQL
-- **Déploiement** : Docker
 
 ##  Résultats Obtenus
 
@@ -37,5 +35,4 @@ Construire un système capable d’extraire, structurer et vectoriser les inform
 - Architecture scalable et prête pour une utilisation en production
 
 
-# Lancer l'application avec Docker
-docker-compose up --build
+
